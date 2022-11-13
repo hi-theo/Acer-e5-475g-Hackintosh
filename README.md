@@ -1,4 +1,4 @@
-# Acer-e5-475g-Hackintosh
+# Acer-e5-475g-Hackintosh Mojave
 
 ## Specifications
 
@@ -7,7 +7,7 @@
 - Integrated GPU: Intel HD Graphics 620
 - Discrete GPU: Nvidia 940MX
 - Audio: Realtek ALC255
-- Storage: Samsung 860 EVO 500GB
+- Storage: Toshiba 1 TB Harddisk
 - Ethernet Card: Realtek RTL8111
 - Wireless Card: Qualcomm QCA9377
 - Touchpad: ELAN0501 I2C
@@ -32,4 +32,5 @@
 - Speaker + Combo Jack Headphone
 
 ## Not Working
-- wireless
+
+- Wifi Qualcomm QCA9377 not supported
